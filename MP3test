@@ -1,0 +1,6 @@
+--2013-06-04 21:43:17--  http://translate.google.com/translate_tts?tl=en&q=Hello%20World
+Resolving translate.google.com (translate.google.com)... 74.125.226.197, 74.125.226.192, 74.125.226.194, ...
+Connecting to translate.google.com (translate.google.com)|74.125.226.197|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2013-06-04 21:43:18 ERROR 403: Forbidden.
+
